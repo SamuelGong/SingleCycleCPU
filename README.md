@@ -43,7 +43,7 @@ The content of all the codes are supposed to use a licence [AGPLv3](./LICENSE)
 the repo owner will respond with useful comments.
 
 # 7. CREDIT
-First of all, I would like to extend my sincere gratitude to my supervisor, Xiaohong Jiang, her his instructive advice 
+First of all, I would like to extend my sincere gratitude to my supervisor, Xiaohong Jiang, for her instructive advice 
 and useful suggestions on my learning on couputer organization.   
 I am also deeply grateful of Zhe Pan, the TA's help in the completion and assessment of this project.  
 High tribute shall be paid to Licheng Guo, whose profound knowledge of CPU and Verilog HDL triggers my inspiration for this brilliant project. 
